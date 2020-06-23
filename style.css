@@ -239,6 +239,17 @@ margin-left:20%;
   width: 300px;
   height: 100px;
     }
+
+    .holder div {
+      float: left;
+      width: 300px;
+      height: 100px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+
 .haut{
   top:20vh;
 }
