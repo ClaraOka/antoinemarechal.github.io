@@ -239,10 +239,19 @@ margin-left:20%;
       width: 200px;
       height: 100px;
     }*/
+.haut{
+  top:15vh;
+}
+
+.bas{
+      bottom:15vh;
+}
 
   .sommaire img{
     max-width:400px;
 }
+
+
 
 .texte{
 max-width: 350px;
