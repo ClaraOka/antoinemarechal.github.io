@@ -267,14 +267,6 @@ max-width: 350px;
 
 
 
-.haut{
-  top:23vh;
-}
-
-.bas{
-      bottom:23vh;
-}
-
 
   .sommaire img{
     max-width:400px;
@@ -328,7 +320,7 @@ max-width: 350px;
 }
 .slideshow{
   width: 400px;
-  height: 130px;
+  height: 134px;
   margin-left:10px;
   margin-right:10px;
     }
