@@ -248,11 +248,9 @@ margin-left:20%;
 }
 
 
-
   .sommaire img{
     max-width:400px;
 }
-
 
 
 .texte{
@@ -266,6 +264,29 @@ max-width: 350px;
 .projet-images div{
   margin-bottom: 40px;
 }
+
+
+
+.image-2{
+  margin-left:10%;
+}
+
+.image-3{
+  margin-left:20%;
+}
+
+.image-4{
+  margin-left:10%;
+}
+
+.image-5{
+  margin-left:20%;
+}
+
+.image-6{
+  margin-left:20%;
+}
+
 
 }
 
