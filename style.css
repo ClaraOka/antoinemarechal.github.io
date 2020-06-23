@@ -247,6 +247,8 @@ margin-left:20%;
       bottom:15vh;
 }
 
+
+
   .sommaire img{
     max-width:400px;
 }
@@ -271,10 +273,11 @@ max-width: 350px;
 
 @media (max-width: 650px){
 
-  header, footer{
+  header, footer, h1{
   font-size: 20px;
 
 }
+
 
   .sommaire img{
     max-width:250px;
