@@ -240,11 +240,11 @@ margin-left:20%;
   height: 100px;
     }
 .haut{
-  top:15vh;
+  top:20vh;
 }
 
 .bas{
-      bottom:15vh;
+      bottom:20vh;
 }
 
 
@@ -292,9 +292,9 @@ max-width: 350px;
 
 
 
-@media (max-width: 650px){
+@media (max-width: 700px){
 
-  header, footer, h1{
+  header, footer, h1, h2{
   font-size: 20px;
 
 }
