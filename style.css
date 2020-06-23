@@ -311,6 +311,11 @@ max-width: 350px;
 
 @media (max-width: 300px){
 
+  header, footer{
+  font-size: 20px;
+
+}
+
   .sommaire img{
     max-width:250px;
 }
