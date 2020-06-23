@@ -213,7 +213,7 @@ margin-left:20%;
 }
 
 .image-6{
-  margin-left:20%;
+  margin-left:15%;
 }
 
 
@@ -263,19 +263,8 @@ max-width: 350px;
 
 @media (max-width: 750px){
 
-.slideshow{
-  width: 300px;
-  height: 100px;
-    }
 
-    .holder div {
-      float: left;
-      width: 300px;
-      height: 100px;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
+
 
 
 .haut{
@@ -323,7 +312,7 @@ max-width: 350px;
 }
 
 .image-6{
-  margin-left:20%;
+  margin-left:5%;
 }
 
 
@@ -337,6 +326,10 @@ max-width: 350px;
   font-size: 20px;
 
 }
+.slideshow{
+  width: 300px;
+  height: 100px;
+    }
 
 
   .sommaire img{
