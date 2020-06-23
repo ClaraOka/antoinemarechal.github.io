@@ -233,6 +233,34 @@ margin-left:20%;
 
 
 
+@media (max-width: 750px){
+
+
+
+  .sommaire img{
+    max-width:400px;
+}
+
+
+.texte{
+max-width: 350px;
+}
+
+  .projet-images img{
+    max-width:400px;
+}
+
+.projet-images div{
+  margin-bottom: 40px;
+}
+
+
+
+
+}
+
+
+
 @media (max-width: 850px){
 
 .slideshow{
