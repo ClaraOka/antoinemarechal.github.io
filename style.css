@@ -260,16 +260,8 @@ max-width: 500px;
       height: 134px;
     }
 
-    .haut{
-      top:30vh;
 
 
-    }
-
-    .bas{
-      bottom:30vh;
-
-    }
 
   .sommaire img{
     max-width:400px;
@@ -308,6 +300,7 @@ max-width: 350px;
 }
 
 }*/
+
 
 @media (max-width: 650px){
 
