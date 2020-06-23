@@ -320,6 +320,10 @@ max-width: 350px;
     max-width:250px;
 }
 
+h1{
+  display: none;
+}
+
 .texte{
 max-width: 250px;
 }
