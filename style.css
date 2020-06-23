@@ -236,8 +236,8 @@ margin-left:20%;
 @media (max-width: 850px){
 
 .slideshow{
-      width: 20%;
-      height: auto;
+  width: 300px;
+  height: 100px;
     }
 .haut{
   top:15vh;
