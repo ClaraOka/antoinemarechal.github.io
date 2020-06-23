@@ -235,10 +235,10 @@ margin-left:20%;
 
 @media (max-width: 850px){
 
-  /*.slideshow{
-      width: 200px;
-      height: 100px;
-    }*/
+.slideshow{
+      width: 70%;
+      height: auto;
+    }
 .haut{
   top:15vh;
 }
