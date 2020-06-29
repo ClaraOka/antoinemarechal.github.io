@@ -149,6 +149,10 @@ margin-left:auto;
 margin-right:auto;
 }
 
+.references a{
+line-height: 1.5;
+}
+
 .sommaire{
   position:absolute;
   top:250px;
